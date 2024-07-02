@@ -47,3 +47,4 @@
 ### Coin Problems 
 ![image](https://github.com/arey-pranay/Aptitude_Test/assets/86497126/87f84a79-2929-4bbb-b081-8329546fbb6a)
 
+# Day 3
